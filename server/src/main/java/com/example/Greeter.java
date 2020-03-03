@@ -17,7 +17,7 @@ public class Greeter {
    * Metodo de greet modificado.
    */
   public String greet(String someone) {
-    if(magico > 1){
+    if(magico>1){
       if(true){
          if(true){
          if(true){
